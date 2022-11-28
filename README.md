@@ -35,10 +35,10 @@ password：zi68
 ### QT:
 https://wiki.qt.io/Qt_5.4.0_Known_Issues
 # Notes:
-***
+
 remove SmartControl.pro.user file
-***
+
 ## Reson:
-***
+
 Because your development environment MinGW installation path may be different from mine, you need to delete this file and specify the MinGW path because it is a tool for compiling C++.
-***
+
