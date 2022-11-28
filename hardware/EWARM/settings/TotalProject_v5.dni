@@ -1,0 +1,58 @@
+[StLinkDriver]
+stlinkserialNo=30303031
+stlinkfoundProbes=
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+stlinkResetStyle=0
+stlinkResetStrategy=1
+[DebugChecksum]
+Checksum=549605976
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\Src\main.c}.528.3" 0 0 1 "" 0 "" 0
+Count=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\inc\c\DLib_Product_string.h" ""
+A1=_ "C:\Users\lige\Desktop\STM32F051资源\实例源码\6. UDP通信\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c" ""
+A2=_ "C:\Users\lige\Desktop\智能农业单片机\Src\main.c" ""
+A3=_ "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5 for ARM\arm\inc\c\DLib_Product_string.h" ""
+A4=_ "D:\Program Files\iar\arm\inc\c\DLib_Product_string.h" ""
+A5=_ "D:\farsight\stm32\程序源码\完整项目\单片机\Src\main.c" ""
+A6=_ "D:\华清远见\华清远见-WiFi机智云开发基于一键还原板（ESP-12F）\程序源码\完整项目\单片机\Src\main.c" ""
+A7=_ "E:\Program Files (x86)\IAR Systems\arm\inc\c\DLib_Product_string.h" ""
+A8=_ "F:\7 - 高校实训\北华大学《智能农业》\智能农业单片机\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart.c" ""
+A9=_ "H:\高校实训\北华大学《智能农业》\单片机\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart.c" ""
+A10=_ "L:\华清远见光盘镜像\嵌入式无线传感实验箱（无线）\网络拓扑\物联网无线传感网（新一键还原）\WiFi\TotalProject_v5\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c" ""
+A11=_ "L:\华清远见光盘镜像\嵌入式无线传感实验箱（无线）\网络拓扑\物联网无线传感网（新一键还原）\WiFi\TotalProject_v5\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart.c" ""
+A12=_ "L:\华清远见光盘镜像\嵌入式无线传感实验箱（无线）\网络拓扑\物联网无线传感网（新一键还原）\WiFi\TotalProject_v5\Src\main.c" ""
+Count=13
+SuppressDialog=1
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
