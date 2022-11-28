@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.jpg</file>
+        <file>images/bulb_off.png</file>
+        <file>images/bulb_on.png</file>
+        <file>images/buttonsgreen.png</file>
+        <file>images/buttonsred.png</file>
+        <file>images/fan_off.png</file>
+        <file>images/fan_on.png</file>
+        <file>images/icon.png</file>
+        <file>sound/clicked.wav</file>
+        <file>sound/humwarn.wav</file>
+        <file>sound/lightwarn.wav</file>
+        <file>sound/move.wav</file>
+        <file>sound/tempwarn.wav</file>
+        <file>sound/time.wav</file>
+        <file>images/good.jpg</file>
+        <file>images/good1.jpg</file>
+        <file>images/happy.jpg</file>
+        <file>images/happy1.jpg</file>
+        <file>images/lver.gif</file>
+    </qresource>
+</RCC>
