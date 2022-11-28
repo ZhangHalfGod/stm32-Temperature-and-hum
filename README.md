@@ -16,9 +16,11 @@ QT advantage:
 Qt supports the following operating systems: Microsoft Windows 95/98, Microsoft Windows NT, Linux, Solaris, SunOS, HP-UX, Digital UNIX (OSF/1, Tru64), Irix, FreeBSD, BSD/OS, SCO, AIX, OS390, QNX, etc.
 ***
 2.Object-oriented:
+***
 The good packaging mechanism of Qt makes Qt very modular, reusable, and very convenient for user development. Qt provides an alternative to callbacks with a security type called signals/slots, which makes it easy for the individual components to work together.
 ***
 3.Rich APIs:
+***
 Qt includes more than 250 C++ classes, as well as template-based collections, serialization, file, I/O device, directory management, and date/time classes. It even includes regular expression processing.
 ***
 # MY tools:
