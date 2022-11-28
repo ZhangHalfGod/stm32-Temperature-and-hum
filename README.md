@@ -34,3 +34,5 @@ linker：https://pan.baidu.com/s/1k9DAIoAey44ztEFgoWuXjw
 password：zi68 
 ### QT:
 https://wiki.qt.io/Qt_5.4.0_Known_Issues
+# Notes:
+-<s
