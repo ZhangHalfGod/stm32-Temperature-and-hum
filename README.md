@@ -23,9 +23,9 @@ The good packaging mechanism of Qt makes Qt very modular, reusable, and very con
 ***
 Qt includes more than 250 C++ classes, as well as template-based collections, serialization, file, I/O device, directory management, and date/time classes. It even includes regular expression processing.
 ***
-# MY tools:
+# MY Tools:
 ***
 1.Qt 5.4.0
 2.IAR Embedded Workbench for ARM 7.80
 ***
-# download:
+# Download SoftWare Address:
