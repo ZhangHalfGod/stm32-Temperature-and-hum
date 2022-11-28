@@ -29,3 +29,5 @@ Qt includes more than 250 C++ classes, as well as template-based collections, se
 2.IAR Embedded Workbench for ARM 7.80
 ***
 # Download SoftWare Address:
+linker：https://pan.baidu.com/s/1k9DAIoAey44ztEFgoWuXjw 
+password：zi68 
