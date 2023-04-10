@@ -42,5 +42,5 @@ remove SmartControl.pro.user file
 
 Because your development environment MinGW installation path may be different from mine, you need to delete this file and specify the MinGW path because it is a tool for compiling C++.
 
-###license
+
 [![Security Status](https://s.murphysec.com/badge/ZhangHalfGod/stm32-Temperature-and-hum.svg)](https://www.murphysec.com/p/ZhangHalfGod/stm32-Temperature-and-hum)
